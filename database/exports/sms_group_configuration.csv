@@ -1,0 +1,28 @@
+mcc,mnc,sms_group_name,sms_group_id,country,csg_destination_id,csg_test_node_id,csg_test_node_uid,evaluation_schedule,evaluation_criteria,run_status
+235,2,United Kingdom - Everything Everywhere (T-Mobile),2011,GB,486,501,e570a3d3-e8a1-4635-a7d9-9a5628b52994,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+502,18,Malaysia - U Mobile,60,MY,290,259,afd62e15-98ea-48c0-b5b9-af179157b1b4,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+208,0,France - ORANGE FRANCE,1398,FR,160,4565,f75f306a-9859-4550-94ee-396f8df55f1c,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+208,16,France - FREE MOBILE,1391,FR,153,4566,af0f986f-c7f6-4384-8cb2-9213c830e976,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+502,16,Malaysia - DiGi Telecom,1625,MY,290,258,a4b05e86-2218-4c18-b6df-29cadfbcb57d,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+520,1,Thailand - AIS,1965,TH,447,5813,ae536d2e-0cb0-4542-b928-b4f32f6e99bf,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+234,2,United Kingdom - Telefonica UK (O2 UK),2033,GB,486,5614,6b5c5189-7d0a-4c5f-b584-b7d72c6db7ce,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+235,94,United Kingdom - Hutchison 3G UK,2014,GB,486,3165,a99def85-f95c-46f3-b324-f47e7526c46a,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+505,2,Australia - SingTel Optus,1174,AU,31,5932,25d80279-5980-4c44-91a1-b1aa7aa20453,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+724,0,Brazil - Nextel Brazil,1237,BR,66,230,ef35282d-d5c6-46df-b97d-bac21947abc9,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+505,3,Australia - Vodafone Australia PTY Limited,1177,AU,30,5934,2508f166-cf11-4842-983b-d394fd1eb012,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+520,12,Malaysia - Maxis,58,MY,290,257,2adb2062-1e5f-4877-9e21-f7f1860a2909,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+234,15,United Kingdom - Vodafone,2038,GB,486,3163,38aa6d10-b3f2-492f-9840-ecdb891cef36,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+470,10,Indonesia - PT. Telekomunikasi Selular (Telkomsel),1509,ID,217,264,782313e3-8d4a-4b30-9482-995bdb3c38d3,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+440,22,Spain - Best Spain Telecom,1874,ES,417,88,0c4a3cb8-aa72-4525-b79e-f49d09ffdd38,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+724,5,Brazil - Claro,1235,BR,66,402,15c65a6e-79c4-4613-a9a1-e8d170cf2b01,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+510,11,Indonesia - PT XL Axiata,1508,ID,217,267,6eefcfef-91aa-4d83-933c-083062c0c438,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+208,21,France - BOUYGUES TELECOM,1389,FR,156,86,d483d72f-bfb0-4b8d-a4c8-317c619aecef,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+510,15,Thailand - Telephone Organization of Thailand,1967,TH,447,381,e924b198-df78-4175-9e3b-275d271e73c8,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+502,13,Malaysia - Celcom,56,MY,290,260,a89b9591-4893-4390-a20f-ce585ca0c5a5,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+505,72,Australia - Telstra Corporation,1175,AU,30,5935,bad5cba3-8afd-4711-a99a-f4e344a22ed4,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+515,5,Philippines - Digitel/ Sun Cellular,1769,PH,358,270,51f4e38a-4e18-48f7-9989-3e1154e0ff0a,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+722,310,Argentina - Claro,1158,AR,21,4436,1e40f2c8-22f8-484f-bf7a-1ff9e1caf8fa,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+502,1,Philippines - Globe Telecom,1770,PH,358,269,24ee617a-47e2-44ed-98c2-3d45d034905f,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+515,18,Philippines - Smart Communications,1772,PH,358,271,557684f5-77bc-4af6-84f3-9a53afd0d6f8,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+515,7,Argentina - TELEFONICA MOVILES ARGENTINA,1162,AR,21,4435,9145db3f-626c-4475-b578-d72d5f78fd68,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
+722,34,Argentina - TELECOM PERSONAL,1161,AR,21,4574,8e3558aa-4309-4155-b4b3-ef112cfff494,0 * * * *,"(1,80,""(average,10)"",)",NOT IN PROGRESS
